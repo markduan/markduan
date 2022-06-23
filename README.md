@@ -22,3 +22,4 @@ I’m currently working on [QingCloud](https://www.qingcloud.com/) as a frontend
 ![Nginx](https://img.shields.io/badge/-Nginx-%23579050?style=flat&logo=nginx&logoColor=ffffff&color=009639)
 ![RxJS](https://img.shields.io/badge/-rxjs-c2185b?logo=reactivex&style=flat)
 ![Roll](https://img.shields.io/badge/-rollupjs-f9f9f9?logo=rollup.js&style=flat)
+![Docker](https://img.shields.io/badge/-docker-2496ED?logo=docker&style=flat&logoColor=fff)
