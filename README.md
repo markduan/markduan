@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m currently working on [QingCloud](https://www.qingcloud.com/) as a frontend developer.
+I’m currently working as a frontend developer at [QingCloud](https://www.qingcloud.com/).
 
 ## My Stacks
 
